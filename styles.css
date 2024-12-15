@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+.root
+{
+	background-color:rgb(135,206,235);
+}
+.first-child{
+	background-color:black;
+	color:white;
+}
+.last-child{
+	color:red;
+}
+.list{
+	
+	width:50%;	
+}
+.list1{
+	background-color:white;
+	padding:10px;
+	font-size:22px;
+}
+.list3{
+	background-color:pink;
+	padding:10px;
+}
+.list2{
+	background-color:gray;
+	padding:10px;
+}
